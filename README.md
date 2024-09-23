@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on **Web Development projects.**  <br>👯 I’m looking to collaborate on **open-source full-stack web projects or innovative web apps.**  <br>🤝 I’m looking for help with **backend optimization and advanced JavaScript frameworks.**  <br>🌱 I’m currently learning **new front-end technologies like React.js and exploring Node.js improvements.**  <br>💬 Ask me about **full-stack web development, especially using the MERN stack, or coding in Java and Cpp.**  <br>⚡ Fun fact: **I can code for hours but need regular doses of Coffee to keep going!** <br>
-<hr>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" height="150"/>
+🔭 I’m currently working on **Web Development projects.**  <br>👯 I’m looking to collaborate on **open-source full-stack web projects or innovative web apps.**  <br>🤝 I’m looking for help with **backend optimization and advanced JavaScript frameworks.**  <br>🌱 I’m currently learning **new front-end technologies like React.js and exploring Node.js improvements.**  <br>💬 Ask me about **full-stack web development, especially using the MERN stack, or coding in Java and Cpp.**  <br>⚡ Fun fact: **I can code for hours but need regular doses of Coffee to keep going!** <br>
 
 
-## 🌐 Socials:
+
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjeetpatel9900) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjeet-patel) 
 
 
